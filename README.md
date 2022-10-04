@@ -88,10 +88,35 @@ Unity Code Snippets. Создать новый проект в Unity. Соеди
 ![image](https://user-images.githubusercontent.com/114181594/192887565-1a7277f2-7455-4dd7-9f28-1713f9fb29c8.png)
 
 
+# Выводим "Hello World" на Python в Google Colab.
+
+
+![image](https://user-images.githubusercontent.com/114181594/193768166-2decac03-8700-4226-8655-08679890c25f.png)
+
+Файл с кодом сохранен на личном диске:
+
+![image](https://user-images.githubusercontent.com/114181594/193768800-10c31129-9cf3-4aaf-bed7-61d9a7754930.png)
+
+# Выводим "Hello World" в Unity.
+
+В проекте Unity создаем папку Scripts и создаем в ней новый скрипт:
+
+![image](https://user-images.githubusercontent.com/114181594/193769269-d9bc4cb5-66b5-42c8-81b2-a388e0d3731d.png)
+![image](https://user-images.githubusercontent.com/114181594/193769654-6923c4de-1c74-497a-a465-3bb4c66a1a88.png)
+
+Код в скрипте:
+
+![image](https://user-images.githubusercontent.com/114181594/193777154-1bedcfa0-7374-47c5-abc8-d8bc52982616.png)
+
+
+Привязываем скрипт к объекту CubeTest и запускам программу с кодом:
+
+![image](https://user-images.githubusercontent.com/114181594/193777057-7240e0d8-a6d2-4955-9771-4181032463b8.png)
+
 
 
 ## Вывод
-Установила и разобралась в утилитах для работы с Unity. Написала простейшую программу. Объединила VS Code и Unity, установила соответствующие паки.
+Установила и разобралась в утилитах для работы с Unity. Написала простейшую программу. Объединила VS Code и Unity, установила соответствующие паки. Вывела "Hello World"  в Unity на C# и в Colab на Python.
 
 
 | Plugin | README |
