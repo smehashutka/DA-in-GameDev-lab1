@@ -111,7 +111,8 @@ Unity Code Snippets. Создать новый проект в Unity. Соеди
 
 Привязываем скрипт к объекту CubeTest и запускам программу с кодом:
 
-![image](https://user-images.githubusercontent.com/114181594/193777057-7240e0d8-a6d2-4955-9771-4181032463b8.png)
+![image](https://user-images.githubusercontent.com/114181594/193781793-f6b66076-7154-44ce-a2ba-82661505cb0a.png)
+
 
 
 
