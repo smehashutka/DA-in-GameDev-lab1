@@ -66,11 +66,22 @@
 Unity Code Snippets. Создать новый проект в Unity. Соединить программы и вывести Hello Word.
 
 
-Устанавливаем VS Code.
+Устанавливаем VS Code:
+
 ![image](https://user-images.githubusercontent.com/114181594/192887248-28316023-0461-43a2-b5b4-38ec3e8b0587.png)
 
+Утснавливаем два дополнительных пакета:
 
-Создаем новы проект в Unity:
+![image](https://user-images.githubusercontent.com/114181594/193766620-a4010e52-a7b8-4ce5-87f9-af63869f8517.png)
+
+Добавляем необходимые extinsions в VS Code:
+
+![image](https://user-images.githubusercontent.com/114181594/193766850-e032499f-3bcc-4246-aad2-12ccd31693c7.png)
+![image](https://user-images.githubusercontent.com/114181594/193766970-f91c7b8e-4c28-4f69-b182-f8c10e3cf7cd.png)
+
+
+
+Создаем новый проект в Unity:
 ![image](https://user-images.githubusercontent.com/114181594/192885859-fe4f1e76-288f-4af5-b896-2720f482f85b.png)
 
 Соединяем:
