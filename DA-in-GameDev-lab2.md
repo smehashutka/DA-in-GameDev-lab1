@@ -180,7 +180,7 @@ public class NewBehaviourScript : MonoBehaviour
 
 Так это выглядит в Unity, при этом с каждым выводом в консоль появляется звук:
 
-![image](https://user-images.githubusercontent.com/114181594/194281482-dd2b5b94-cb56-4f68-9b1e-13bc6458fd2f.png)
+![image](https://user-images.githubusercontent.com/114181594/194284281-4301bfec-7382-4672-aa0f-f2b35e14b3ef.png)
 
 
 
