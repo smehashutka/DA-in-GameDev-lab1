@@ -196,32 +196,11 @@ public class NewBehaviourScript : MonoBehaviour
 ## Задание 2
 ### Написать программу Hello World в Unity.
 
-Ход работы:
-Установить Unity с официального сайта. Установить VS Code. Установить пакеты .NET Framework 4.8 Developer Pack и .NET 6 SDK. В VS Code устанавливаем Unity Tools и
-Unity Code Snippets. Создать новый проект в Unity. Соединить программы и вывести Hello Word.
-
-
 
 ## Задание 3
 ### Разобрать код. Понять значение переменной Lr и ответить на поставленный вопрос.
-Ход работы:
-
-```Python
-def model(a, b, x):
-  return a*x + b
-  
-def loss_function(a, b, x, y):
-  num = len(x)
-  prediction=model(a,b,x)
-  return (0.5/num) * (np.square(prediction-y)).sum()
-  
-loss = loss_function(a, b, x, y)
-```
 
 
-
-## Вывод
-Установила и разобралась в утилитах для работы с Unity. Написала простейшую программу. Объединила VS Code и Unity, установила соответствующие паки. Вывела "Hello World"  в Unity на C# и в Colab на Python. Разобралась в понятии линейной регресии, методе градиентного спуска, а также в из реализации на Python.
 
 
 | Plugin | README |
